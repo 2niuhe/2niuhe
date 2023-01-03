@@ -6,5 +6,8 @@
 - 🌱 I’m currently learning Distributed Systems
 - 📫 How to reach me: [carlton2tang@gmail.com](carlton2tang@gmail.com)
 
-**2022 TODO list**
-- [ ] Gym
+**2023 TODO list**
+- [ ] Read 50 books
+- [ ] Distributed Systems mit6.824
+- [ ] Leetcode 200 problems
+- [ ] Lose weight 5 pounds
